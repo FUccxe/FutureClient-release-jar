@@ -1,2 +1,2 @@
 # FutureClient-release-jar
-FutureClient'server did
+FutureClient'server died
